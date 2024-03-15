@@ -7,7 +7,7 @@ https://www.kaggle.com/datasets/winston56/fortune-500-data-2021?utm_medium=socia
 <h3>System Requirements</h3>
 <h4>Software:</h4>
 Excel (for the CSV data)
-Jupyter Notebook (for analysing and visualising data)
+ and Jupyter Notebook (for analysing and visualising data)
 <h4></h4>Hardware: 
 <h4></h4>Processor (CPU) - Intel Core i5 (sixth generation or newer) or equivalent 
 <h4></h4>Memory - 16 GB RAM
